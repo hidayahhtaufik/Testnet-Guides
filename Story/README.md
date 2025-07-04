@@ -1,4 +1,4 @@
-# Story Protocol Validator Setup Guide
+# Story Aeneid Validator Setup Guide
 
 This guide provides instructions for setting up a Story Validator on the Aeneid Network using our automated script.
 
