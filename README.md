@@ -10,7 +10,7 @@ Welcome to my collection of blockchain testnet guides and installation scripts! 
 - **Features**: Auto-installer, snapshot management, state sync
 - **Script**: [`auto-install.sh`](Story/auto-install.sh)
 
-### 2. [Add New Testnet Here]
+### 2. [New Testnet]
 - Description: 
 - Guide: 
 - Features: 
@@ -31,7 +31,6 @@ All automation scripts should:
 - Include error handling
 - Support both auto and manual modes
 - Provide cleanup/uninstall options
-- Work on Ubuntu 20.04/22.04
 
 ## License
 This content is licensed under [MIT License](LICENSE). Always verify scripts before running them on your systems.
@@ -40,5 +39,5 @@ This content is licensed under [MIT License](LICENSE). Always verify scripts bef
 These guides are provided for educational purposes only. Always exercise caution when participating in testnets and never use mainnet assets.
 
 ## Upcoming Guides
-- [x] Lumera Validator Setup
-- [x] Octra Tutorial
+- [] Lumera Validator Setup
+- [] Octra Tutorial
